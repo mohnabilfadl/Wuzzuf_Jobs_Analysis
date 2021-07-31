@@ -17,7 +17,7 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 4- count the number of job offers made by each company.
 
-5-create a pieChart of the number of joboffers made by top companies and export it as image to diaplay on browser.
+5- create a pieChart of the number of joboffers made by top companies and export it as image to diaplay on browser.
 ![alt text](https://github.com/mohnabil2020/Wuzzuf_jobs_java_project/blob/main/src/main/resources/files/pieChart.png?raw=true)
 
 6- finding the most popular job titles.
