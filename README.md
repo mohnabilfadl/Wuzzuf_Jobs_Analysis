@@ -57,5 +57,5 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 # Team Members (Masnoura-G2):
 
 ## Mohamed Nabil Fadl
-## Yasmin Assad
+## Yasmeen Asaad
 ## Mohamed Elmgharbel
