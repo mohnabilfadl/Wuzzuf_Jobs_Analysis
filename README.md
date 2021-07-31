@@ -1,6 +1,6 @@
 # Final-Java-Project-On-Wuzzuf-DataSet
 
-To view demo click [HERE](https://youtu.be/CZY6aghwViQ)
+## To view demo click [HERE](https://youtu.be/CZY6aghwViQ)
 
 Wuzzuf jobs in Egypt data set at Kaggle
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
@@ -13,7 +13,7 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 ### Making webservice that responds to different requests and send Data in json Format .
 
-### a TesterClient class to test each path in the controller and testing that the web service working proberly and is doing it's job.
+### TesterClient  to test each path in the controller and test that the web service working proberly and is doing it's job.
 
 1-To read dataset From csv and convert it to spark Dataframe.
 
