@@ -1,6 +1,6 @@
 # Final-Java-Project-On-Wuzzuf-DataSet
 
-## To view demo click [HERE](https://youtu.be/CZY6aghwViQ)
+## To view demo video from youtube click [HERE](https://youtu.be/CZY6aghwViQ)
 
 Wuzzuf jobs in Egypt data set at Kaggle
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
