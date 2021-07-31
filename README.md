@@ -9,34 +9,28 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 # Project Functionality:
 
-### Creating Dao class to deal with reading from dataset, POJO class that each dao method return a POJO object, making controller and service class to do the differen jobs and call each one with it's path;
+1- Read dataset From csv and convert it to spark Dataframe.
 
-### Making webservice that responds to different requests and send Data in json Format .
-
-### TesterClient  to test each path in the controller and test that the web service working proberly and is doing it's job.
-
-1-To read dataset From csv and convert it to spark Dataframe.
-
-2-Display structure and summary os data on console and using webservice.
+2- Display structure and summary os data on console and using webservice.
 
 3-removing nulls and duplicated values.
 
-4-count the number of job offers made by each company.
+4- count the number of job offers made by each company.
 
 5-create a pieChart of the number of joboffers made by top companies and export it as image to diaplay on browser.
 ![alt text](https://github.com/mohnabil2020/Wuzzuf_jobs_java_project/blob/main/src/main/resources/files/pieChart.png?raw=true)
 
-6-finding the most popular job titles.
+6- finding the most popular job titles.
 
 7- drawing category chart represents the frequency of each job title in the dataset.
 ![alt text](https://github.com/mohnabil2020/Wuzzuf_jobs_java_project/blob/main/src/main/resources/files/barChart1.png?raw=true)
 
 8- find the most popular areas.
 
-9-create category chart using our generalized method changing parameters to draw the frequency of each area in the dataset.
+9- create category chart using our generalized method changing parameters to draw the frequency of each area in the dataset.
 ![alt text](https://github.com/mohnabil2020/Wuzzuf_jobs_java_project/blob/main/src/main/resources/files/barChart2.png?raw=true)
 
-10-print each skill and the frequency of it to get the most common skills .
+10- print each skill and the frequency of it to get the most common skills .
 
 11- factorize the YearsEXP column to numbers the add the new column to the dataset
 
