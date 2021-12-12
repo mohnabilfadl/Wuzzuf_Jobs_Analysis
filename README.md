@@ -53,9 +53,3 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
   - Spark
     
   and Json formater plugin for chrome browser To view json in human readable format.
- 
-# Team Members (Masnoura-G2):
-
-## Mohamed Nabil Fadl
-## Yasmeen Asaad
-## Mohamed Elmgharbel
